@@ -9,4 +9,8 @@ Al final de la trivia te mostrará tu puntaje final obtenido.
 
 Lo puedes visualizar y exportar fácilmente.
 
+Mi código en replit:
+
+https://replit.com/@MarvinT17/Ciclo-de-juego#main.py
+
 Hasta luego :)
